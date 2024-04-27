@@ -5,6 +5,9 @@
 Biologically engineered systems represent a cutting-edge domain where engineering principles are applied to biological contexts to create novel, often highly efficient solutions. These systems can include everything from genetically modified organisms designed to produce pharmaceuticals to synthetic biological circuits that mimic electronic ones, enabling computers to process information using biological components. This field is a convergence of disciplines such as genetics, molecular biology, and bioinformatics, and it holds tremendous potential for innovations in healthcare, agriculture, and environmental management. As these systems grow increasingly complex and capable, they also raise important ethical and safety considerations that must be addressed to harness their full potential responsibly.
 
 #
+<details><summary>Types of Biologically Engineered Systems</summary>
+<br>
+   
 ### Types of biologically engineered systems:
 
 1. Genetically Modified Organisms (GMOs)
@@ -18,7 +21,12 @@ Biologically engineered systems represent a cutting-edge domain where engineerin
 9. Biohybrid Systems
 10. CRISPR-Cas Gene Editing Platforms
 
-#
+<br>    
+</details>
+
+<details><summary>Types of Biologically Engineered Organisms</summary>
+<br>
+
 ### Types of biologically engineered organisms or biotechnological beings:
 
 1. Genetically Modified Crops (e.g., Bt corn, Golden Rice)
@@ -32,7 +40,12 @@ Biologically engineered systems represent a cutting-edge domain where engineerin
 9. Genetically Engineered Insects (e.g., mosquitoes engineered to resist malaria)
 10. Bioartificial Organs (organs grown from cells in a lab for transplantation)
 
-#
+<br>    
+</details>
+
+<details><summary>Natural, Enhanced, and Mythical Beings</summary>
+<br>
+
 ### Natural, Enhanced, and Mythical Beings
 
 #### 1. Naturally Occurring Beings:
@@ -65,6 +78,9 @@ Biologically engineered systems represent a cutting-edge domain where engineerin
 This list comprises a fascinating array of entities ranging from the naturally occurring to the wholly fantastical, illustrating the broad spectrum of beings that human imagination and mythology can conjure. It begins with familiar entities like humans and animals, which are well-grounded in the natural world and are a part of everyday life. As the list progresses, it introduces more complex and speculative beings such as aliens and various hybrids, which often originate from science fiction and fantasy genres. These beings are typically used to explore themes of otherness, technology, and the limits of human understanding and morality.
 
 Moving into the realm of technological enhancements and hybrids, the list reflects a deep interest in the intersection of biology and technology. Cyborgs and robotic entities suggest a future where technology enhances or even supplants natural biological functions, raising questions about identity and the essence of life. Therianthropes, which are beings capable of transforming from humans or animals into other forms, delve into mythology and the human psyche, exploring themes of transformation and hidden power. Each category serves as a mirror reflecting human hopes, fears, and perennial fascination with the "what ifs" of existence.
+
+<br>    
+</details>
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
