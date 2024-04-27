@@ -64,6 +64,7 @@ Biologically engineered systems represent a cutting-edge domain where engineerin
    - Human Cyborg - A human with mechanical or electronic enhancements.
    - Alien Cyborg - An alien with mechanical or electronic enhancements.
    - Animal Cyborg - An animal with mechanical or electronic enhancements.
+   - Animal Robot - A robot with characteristics or functions modeled after animals.
    - Alien Robot - A robot that is either designed by aliens or for functioning in alien environments.
    - Robot Alien - A robot with characteristics or functions modeled after aliens.
 
