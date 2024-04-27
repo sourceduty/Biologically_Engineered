@@ -10,45 +10,35 @@ Biologically engineered systems represent a cutting-edge domain where engineerin
 <details><summary>Types of Biological Engineering</summary>
 <br>
 
-#### Genetic Engineering:
-
-Modifying the genetic makeup of organisms to produce desired traits or products.
-   
-#### Tissue Engineering:
-
-Creating biological tissues through the combination of cells, engineering materials, and biochemical factors.
-
 #### Biomedical Engineering:
-
 Applying engineering principles to solve problems in medicine and biology, such as developing medical devices and imaging technology.
 
-#### Environmental Biotechnology: 
+#### Neuroengineering:
+Developing technologies to understand, repair, replace, or enhance neural systems.
 
+#### Pharmaceutical Engineering:
+Designing and developing pharmaceuticals and processes for their production, including drug delivery systems.
+
+#### Genetic Engineering:
+Modifying the genetic makeup of organisms to produce desired traits or products.
+
+#### Tissue Engineering:
+Creating biological tissues through the combination of cells, engineering materials, and biochemical factors.
+
+#### Synthetic Biology:
+Designing and constructing new biological parts, devices, and systems or re-designing existing natural biological systems.
+
+#### Environmental Biotechnology: 
 Using living organisms or their components to solve environmental problems, such as pollution remediation.
 
 #### Agricultural Engineering:
-
 Enhancing farming practices and processes through the application of biological and engineering science.
 
-#### Synthetic Biology:
-
-Designing and constructing new biological parts, devices, and systems or re-designing existing natural biological systems.
-
 #### Bioinformatics:
-
 Applying computational techniques to analyze biological data, including genetic sequences, protein structures, and metabolic pathways.
 
 #### Systems Biology:
-
 Studying complex interactions within biological systems through a holistic approach.
-    
-#### Neuroengineering:
-
-Developing technologies to understand, repair, replace, or enhance neural systems.
-   
-#### Pharmaceutical Engineering:
-
-Designing and developing pharmaceuticals and processes for their production, including drug delivery systems.
 
 <br>    
 </details>
