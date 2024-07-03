@@ -127,6 +127,10 @@ Moving into the realm of technological enhancements and hybrids, the list reflec
 [Health](https://github.com/sourceduty/Health)
 <br>
 [Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
+<br>
+[Biological Simulator](https://github.com/sourceduty/Biological_Simulator)
+<br>
+[Drug Product](https://github.com/sourceduty/Drug_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
