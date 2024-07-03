@@ -121,5 +121,12 @@ Moving into the realm of technological enhancements and hybrids, the list reflec
 <br>    
 </details>
 
+#
+### Related Links
+
+[Health](https://github.com/sourceduty/Health)
+<br>
+[Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
