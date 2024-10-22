@@ -43,8 +43,9 @@ A human with an insect brain would represent a unique type of Human-Insect Hybri
 Physiologically, this transformation might lead to changes in how the human processes information, with faster reactions but simpler thought patterns. A human with an insect brain might also develop traits such as the ability to sense pheromones or other chemical signals, allowing for more efficient communication with insects or other similar hybrids. The concept blurs the line between human cognition and insect instinct, creating a being that bridges human intelligence with the remarkable physical and behavioral abilities of insects.
 
 #
-
 ![Brain-Body](https://github.com/user-attachments/assets/3c7eb458-11ee-4cba-8151-86b4108b2323)
+#
+![District 10](https://github.com/user-attachments/assets/de9a8087-7668-438e-9dfe-7613d6dac77e)
 
 #
 ### Notes
