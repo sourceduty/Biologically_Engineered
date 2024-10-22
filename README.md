@@ -124,46 +124,6 @@ Studying complex interactions within biological systems through a holistic appro
 <br>    
 </details>
 
-<details><summary>Natural, Enhanced, and Mythical Beings</summary>
-<br>
-
-### Natural, Enhanced, and Mythical Beings
-
-#### 1. Naturally Occurring Beings:
-
-   - Human - A natural, unmodified human being.
-   - Animal - A natural, unmodified animal.
-
-#### 2. Fictional or Mythological Beings:
-
-   - Alien - A being from another world, typically in science fiction.
-   - Humanoid - A being with human-like characteristics, possibly from another planet or a fictional world.
-
-#### 3. Artificially Created or Enhanced Beings:
-
-   - Robot - A mechanical being, often with artificial intelligence.
-   - Human Cyborg - A human with mechanical or electronic enhancements.
-   - Alien Cyborg - An alien with mechanical or electronic enhancements.
-   - Animal Cyborg - An animal with mechanical or electronic enhancements.
-   - Animal Robot - A robot with characteristics or functions modeled after animals.
-   - Alien Robot - A robot that is either designed by aliens or for functioning in alien environments.
-   - Robot Alien - A robot with characteristics or functions modeled after aliens.
-
-#### 4. Hybrid or Combined Beings:
-
-   - Human Therianthrope - A mythical or fictional human with the ability to transform into an animal.
-   - Animal Therianthrope - A mythical or fictional animal with human characteristics or abilities.
-   - Alien Therianthrope - A mythical or fictional alien with the ability to transform or with mixed traits.
-   - Alien Human - A hybrid of human and alien characteristics.
-   - Alien Animal - A hybrid of animal and alien characteristics.
-
-This list comprises a fascinating array of entities ranging from the naturally occurring to the wholly fantastical, illustrating the broad spectrum of beings that human imagination and mythology can conjure. It begins with familiar entities like humans and animals, which are well-grounded in the natural world and are a part of everyday life. As the list progresses, it introduces more complex and speculative beings such as aliens and various hybrids, which often originate from science fiction and fantasy genres. These beings are typically used to explore themes of otherness, technology, and the limits of human understanding and morality.
-
-Moving into the realm of technological enhancements and hybrids, the list reflects a deep interest in the intersection of biology and technology. Cyborgs and robotic entities suggest a future where technology enhances or even supplants natural biological functions, raising questions about identity and the essence of life. Therianthropes, which are beings capable of transforming from humans or animals into other forms, delve into mythology and the human psyche, exploring themes of transformation and hidden power. Each category serves as a mirror reflecting human hopes, fears, and perennial fascination with the "what ifs" of existence.
-
-<br>    
-</details>
-
 #
 
 > Alex: "*A human with an insect brain.*"
