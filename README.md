@@ -5,7 +5,35 @@
 Biologically engineered systems represent a cutting-edge domain where engineering principles are applied to biological contexts to create novel, often highly efficient solutions. These systems can include everything from genetically modified organisms designed to produce pharmaceuticals to synthetic biological circuits that mimic electronic ones, enabling computers to process information using biological components. This field is a convergence of disciplines such as genetics, molecular biology, and bioinformatics, and it holds tremendous potential for innovations in healthcare, agriculture, and environmental management. As these systems grow increasingly complex and capable, they also raise important ethical and safety considerations that must be addressed to harness their full potential responsibly.
 
 #
-### Biological Engineering Notes
+### Brain-Body Taxonomy
+
+| Category               | Description                                                                                                                                                   |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Robots                 | Beings composed entirely of computers or machines, including those powered by computer-based "brains."                                                         |
+| Androids               | Robots designed to closely resemble humans in appearance and behavior, often with artificial skin and lifelike movements.                                      |
+| Synths                 | Artificial beings composed of synthetic materials, including bio-synthetics, which may mimic human biology or behavior.                                        |
+| Sentient AI            | Artificial intelligences that have developed self-awareness, emotions, and free will, potentially existing without a physical form or in robotic bodies.       |
+| Computer Aliens        | Extraterrestrial beings that exist in digital form, capable of interfacing with computer systems and may lack a physical body.                                 |
+| Human Cyborgs          | Humans who have integrated artificial components into their brains or bodies for augmentation or repair.                                                       |
+| Humanoids              | Artificial human forms that may have either human or non-human biological components in addition to the artificial brain.                                      |
+| Alien Cyborgs          | Hybrids combining alien biology with a computer brain. These beings likely possess advanced abilities and unique physiology.                                   |
+| Animal Cyborgs         | Creatures whose animal bodies are enhanced by computers, potentially granting them increased intelligence or enhanced capabilities.                            |
+| Aliens-Humans          | Beings that result from a fusion between human and alien DNA, exhibiting traits from both species.                                                             |
+| Synthetic Aliens       | Extraterrestrial beings created through advanced alien technology, possibly combining organic and synthetic components in their physiology.                    |
+| Bio-Engineered Life    | Organisms specifically created through biotechnology for specific tasks or environments, such as living tools or bioweapons.                                  |
+| Digital Entities       | Consciousnesses that exist entirely in a digital realm, possibly able to inhabit virtual worlds, computer systems, or even transfer into physical forms.       |
+| Cyber-Beasts           | Hybrid creatures with mechanical enhancements designed for combat, hunting, or survival in harsh environments.                                                 |
+| Mutants                | Beings whose DNA has been altered, either naturally or artificially, resulting in unique powers, abilities, or appearances different from the normal species. |
+| Therianthropes         | Creatures who can shift between animal and humanoid forms, including werewolves or those transformed by magic/technology.                                      |
+| - Human Therianthrope  | Humans with the ability to transform into animals or animal-like forms, often gaining the instincts, abilities, or characteristics of the animal.               |
+| - Animal Therianthrope | Animals that can transform into humanoid or human-like forms, gaining enhanced intelligence or abilities resembling humans.                                      |
+
+The table categorizes various beings based on their composition and abilities, ranging from purely mechanical entities like robots and androids to biological hybrids such as human cyborgs and animal cyborgs. Robots, androids, and sentient AIs represent entities driven primarily by machines and artificial intelligence, with some being designed to closely resemble or mimic human behavior. Humanoids and cyborgs, on the other hand, blend artificial and biological components, creating beings that straddle the line between organic and synthetic. Alien Cyborgs introduce extraterrestrial elements into the mix, enhancing their physiological and intellectual capacities, while Animal Cyborgs expand the concept to non-human life forms. Bio-engineered life forms and mutants bring the focus to organisms created or altered through biotechnology or natural mutations, adding another layer of complexity to the relationship between biology and technology.
+
+Therianthropes occupy a unique place in the table, blending the animal and humanoid worlds through magical, technological, or natural means. Human Therianthropes are characterized by their ability to shift into animal forms, often adopting animalistic behaviors and instincts during transformation, while Animal Therianthropes are animals that can transform into humanoid forms, exhibiting human-like intelligence and behaviors. These two categories expand the concept of shapeshifting beyond traditional boundaries, bridging the gap between human and animal physiology in ways that defy conventional biological structures. This concept of transformation also connects to other digital or mechanical entities, such as digital entities or cyber-beasts, which can shift forms or exist between realms.
+
+#
+### Notes
 
 <details><summary>Types of Biological Engineering</summary>
 <br>
