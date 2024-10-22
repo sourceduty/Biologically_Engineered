@@ -1,6 +1,8 @@
 ![Robot Alien](https://github.com/sourceduty/Biologically_Engineered/assets/123030236/2462626c-908b-41b9-ad18-997541b6f1e3)
 
-### Biologically Engineered Systems
+>  Biologically engineered systems, organisms and beings.
+
+#
 
 Biologically engineered systems represent a cutting-edge domain where engineering principles are applied to biological contexts to create novel, often highly efficient solutions. These systems can include everything from genetically modified organisms designed to produce pharmaceuticals to synthetic biological circuits that mimic electronic ones, enabling computers to process information using biological components. This field is a convergence of disciplines such as genetics, molecular biology, and bioinformatics, and it holds tremendous potential for innovations in healthcare, agriculture, and environmental management. As these systems grow increasingly complex and capable, they also raise important ethical and safety considerations that must be addressed to harness their full potential responsibly.
 
