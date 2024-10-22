@@ -36,6 +36,13 @@ This table organizes various entities, both biological and artificial, based on 
 The addition of Therianthropes introduces a unique concept of transformation between forms. Human Therianthropes represent humans who can shift into animal forms, gaining the abilities and instincts of animals. In contrast, Animal Therianthropes are animals that can take on humanoid shapes and gain human-like intelligence or abilities. The inclusion of insect-based categories, such as insect cyborgs and insect Therianthropes, adds another layer of complexity. Insect Cyborgs are enhanced with technology that improves their natural abilities or intelligence, while Insect Therianthropes can transform into larger or more complex forms, potentially gaining significant physical and mental capabilities. This extension of the Therianthrope concept into the insect realm reflects the table's broad approach to categorizing beings that exist at the intersection of organic life and technology.
 
 #
+### Human-Insect Brain
+
+A human with an insect brain would represent a unique type of Human-Insect Hybrid, falling within the broader category of therianthropes or hybrid beings. In this case, the human's brain would be replaced or altered to function like that of an insect, resulting in behavior, instincts, and perhaps physical abilities more in line with insect traits. This hybrid could exhibit highly instinctual, swarm-like behavior, incredible focus on survival or task completion, and potentially enhanced sensory perception (like heightened awareness of movement or chemical signals). Such a being might prioritize collective or hive-minded activities over individual reasoning, mirroring the social structures of many insect species.
+
+Physiologically, this transformation might lead to changes in how the human processes information, with faster reactions but simpler thought patterns. A human with an insect brain might also develop traits such as the ability to sense pheromones or other chemical signals, allowing for more efficient communication with insects or other similar hybrids. The concept blurs the line between human cognition and insect instinct, creating a being that bridges human intelligence with the remarkable physical and behavioral abilities of insects.
+
+#
 ### Notes
 
 <details><summary>Types of Biological Engineering</summary>
